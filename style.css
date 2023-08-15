@@ -1,0 +1,37 @@
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;;
+    background: rgb(190, 190, 190);
+}
+
+.header_div{
+    color: white;
+    background: rgb(129, 120, 120);
+}
+
+.header_div p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy-right-footer{
+    position: fixed;
+    bottom: 0px;
+    color: gray;
+    width: 100%;
+    font-size: 18px;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149) ;
+}
